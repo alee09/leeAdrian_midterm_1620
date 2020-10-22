@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+}
+header{
+    position: fixed;
+    color: #f6f0ed;
+    background-color: #28536b;
+    font-family: 'Rubik', sans-serif;
+    padding: 15px;
+    width: 100%;
+}
+
+nav h2{
+    color: #7ea8be;
+    font-size: 60px;
+    margin: 10px;
+}
+nav ul{
+    float: right;
+    margin-bottom:0px;
+    margin-right: 2em;
+    padding: 0;
+}
+nav li{
+    display: inline;
+    padding: 1em;
+    display: inline-block;
+    font-size: 30px;
+}
+nav a{
+    color: #f6f0ed;
+}
+nav a visited{
+    color: #f6f0ed;
+}
+#information{
+    background-color:#7ea8be;
+    padding: 10em;
+    padding-left: 5em;
+    padding-right: 5em;
+    font-family: 'EB Garamond', serif;
+    font-size: 23px;
+}
+#information h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+    margin: 0em;
+    padding: 15px;
+    color: #f6f0ed;
+}
+#information img{
+    float: left;
+    height: 300px;
+    width: auto;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+footer{
+    font-family: 'Rubik', sans-serif;
+    color:#f6f0ed;
+    background-color: #28536b;
+}
+footer ul{
+    text-align: center;
+    margin: 0em;
+    padding: 5px;
+}
+footer li{
+    display: inline;
+    padding: 1em;
+    display: inline-block;
+    font-size: 30px;
+    padding-top: 0;
+}
+footer a{
+    color: #f6f0ed;
+}
+footer a visited{
+    color: #f6f0ed;
+}
+#Contact{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    background-color:#7ea8be;
+    padding-top: 10em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 8em;
+}
+#Contact h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+    margin: 0em;
+    color: #f6f0ed;
+}
+#Contact img{
+    float:right;
+    height: 350px;
+    width: auto;
+    padding-top: 0px;
+    padding-right: 2em;
+    
+    margin: 0em;
+}
+#about{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    background-color:#7ea8be;
+    padding-top: 10em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 8em;
+}
+#about h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+    margin: 0em;
+    color: #f6f0ed;
+}
+#about img{
+    float: left;
+    height: 300px;
+    width: auto;
+    padding-top: 40px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}

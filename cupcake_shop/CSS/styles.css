@@ -10,10 +10,13 @@ header{
     width: 100%;
 }
 
-nav h2{
-    color: #7ea8be;
-    font-size: 60px;
-    margin: 10px;
+
+nav img{
+    height: 200px;
+    width: auto;
+    padding-bottom: 0px;
+    padding-left: 25px;
+    float: left;
 }
 nav ul{
     float: right;
